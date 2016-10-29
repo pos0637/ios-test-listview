@@ -20,4 +20,5 @@ target 'TestListView' do
   pod 'RxSwift', '~> 3.0.0-rc.1'
   pod 'RxCocoa', '~> 3.0.0-rc.1'
   pod 'RxDataSources', '~> 1.0.0-rc.2'
+  pod 'XLPagerTabStrip', '~> 6.0.0'
 end
