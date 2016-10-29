@@ -20,9 +20,9 @@
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
                 <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nkw-Af-OKk">
-                    <rect key="frame" x="0.0" y="0.0" width="65" height="30"/>
+                    <rect key="frame" x="0.0" y="0.0" width="63" height="30"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <state key="normal" title="Button1"/>
+                    <state key="normal" title="Button2"/>
                 </button>
             </subviews>
             <point key="canvasLocation" x="26.5" y="51.5"/>

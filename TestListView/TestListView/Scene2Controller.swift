@@ -15,7 +15,7 @@ class Scene2Controller: ButtonBarPagerTabStripViewController {
     override func viewDidLoad() {
         settings.style.buttonBarBackgroundColor = .white
         settings.style.buttonBarItemBackgroundColor = .white
-        settings.style.selectedBarBackgroundColor = .red
+        settings.style.selectedBarBackgroundColor = blueInstagramColor
         settings.style.buttonBarItemFont = .boldSystemFont(ofSize: 14)
         settings.style.selectedBarHeight = 2.0
         settings.style.buttonBarMinimumLineSpacing = 0
@@ -37,7 +37,7 @@ class Scene2Controller: ButtonBarPagerTabStripViewController {
         let subView1 = SubView1Controller(nibName: "SubView1", bundle: nil)
         subView1.setItemInfo(IndicatorInfo(title: " SubView1"))
         
-        let subView2 = SubView1Controller(nibName: "SubView1", bundle: nil)
+        let subView2 = SubView1Controller(nibName: "SubView2", bundle: nil)
         subView2.setItemInfo(IndicatorInfo(title: " SubView2"))
         
         return [subView1, subView2]

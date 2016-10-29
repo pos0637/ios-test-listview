@@ -14,6 +14,7 @@
 		FA0C1EA51DBBA22E00F19BEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA0C1EA31DBBA22E00F19BEC /* LaunchScreen.storyboard */; };
 		FA4488F41DBE733F00B5C4A3 /* PullToRefreshListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4488F31DBE733F00B5C4A3 /* PullToRefreshListView.swift */; };
 		FA68F2E61DBE76FA001E6DD3 /* Scene1Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA68F2E51DBE76F9001E6DD3 /* Scene1Controller.swift */; };
+		FA9440C31DC4B9790035EF3B /* SubView2.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA9440C21DC4B9790035EF3B /* SubView2.xib */; };
 		FAB8F4CC1DC43CEB00B49453 /* Scene2Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB8F4CB1DC43CEA00B49453 /* Scene2Controller.swift */; };
 		FAB8F4D11DC4410400B49453 /* SubView1Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB8F4D01DC4410400B49453 /* SubView1Controller.swift */; };
 		FAB8F4D31DC444F500B49453 /* SubView1.xib in Resources */ = {isa = PBXBuildFile; fileRef = FAB8F4D21DC444F500B49453 /* SubView1.xib */; };
@@ -31,6 +32,7 @@
 		FA0C1EA61DBBA22E00F19BEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA4488F31DBE733F00B5C4A3 /* PullToRefreshListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PullToRefreshListView.swift; sourceTree = "<group>"; };
 		FA68F2E51DBE76F9001E6DD3 /* Scene1Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scene1Controller.swift; sourceTree = "<group>"; };
+		FA9440C21DC4B9790035EF3B /* SubView2.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SubView2.xib; sourceTree = "<group>"; };
 		FAB8F4CB1DC43CEA00B49453 /* Scene2Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scene2Controller.swift; sourceTree = "<group>"; };
 		FAB8F4D01DC4410400B49453 /* SubView1Controller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubView1Controller.swift; sourceTree = "<group>"; };
 		FAB8F4D21DC444F500B49453 /* SubView1.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SubView1.xib; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				FAB8F4D21DC444F500B49453 /* SubView1.xib */,
+				FA9440C21DC4B9790035EF3B /* SubView2.xib */,
 				FA4488F31DBE733F00B5C4A3 /* PullToRefreshListView.swift */,
 				FA0C1E961DBBA22E00F19BEC /* AppDelegate.swift */,
 				FA0C1E9E1DBBA22E00F19BEC /* Main.storyboard */,
@@ -165,6 +168,7 @@
 				FA0C1EA51DBBA22E00F19BEC /* LaunchScreen.storyboard in Resources */,
 				FA0C1EA21DBBA22E00F19BEC /* Assets.xcassets in Resources */,
 				FA0C1EA01DBBA22E00F19BEC /* Main.storyboard in Resources */,
+				FA9440C31DC4B9790035EF3B /* SubView2.xib in Resources */,
 				FAB8F4D31DC444F500B49453 /* SubView1.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
